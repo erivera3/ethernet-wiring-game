@@ -2,6 +2,10 @@
 
 An interactive game for practicing the T568A and T568B Ethernet wiring standards. I created this with AI assistance as a hands-on study tool while training for IT support and CompTIA A+.
 
+**Project context:** AI-assisted personal study tool. I defined the practice task and memory method and used AI assistance to build the HTML, CSS, and JavaScript implementation.
+
+[Back to my portfolio](https://github.com/erivera3)
+
 ## How to play
 
 1. Choose T568A or T568B.
