@@ -11,6 +11,23 @@ An interactive game for practicing the T568A and T568B Ethernet wiring standards
 
 All eight pins start empty. Optional hints are available when needed.
 
+## My method for remembering the wire order
+
+I memorize the fixed wires first, then use the letter to choose the starting color.
+
+1. **Brown at the end: pins 7–8.** White/brown first, then solid brown.
+2. **Blue in the middle: pins 4–5.** Flip the usual stripe-first order: solid blue at 4, white/blue at 5.
+3. **Check A or B, then fill pins 1–2.**
+   - **B = Basketball = Orange:** white/orange at 1, solid orange at 2.
+   - **A = Alien snot = Green:** white/green at 1, solid green at 2.
+4. **Fill the remaining pins: 3 and 6.** Use the color left over—green for B, orange for A. White-striped wire at 3, solid wire at 6.
+
+**My sequence: 7–8 → 4–5 → 1–2 → 3–6.**
+
+The stripe comes first in each pair when read by pin number, except blue: **4 is solid, 5 is striped**.
+
+Practice from an empty connector, check your answer, then shuffle and repeat. Switch between A and B once you can do each reliably.
+
 ## Technical details
 
 - HTML, CSS, and JavaScript in a single `index.html` file
