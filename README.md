@@ -43,7 +43,7 @@ The routine reduces eight wire positions to four pairs and a consistent sequence
 - **Retrieval practice and feedback:** Close the guide, build from empty pins, check your answer, and correct mistakes. Recalling the order gives you practice that simply looking at the answer does not.
 - **Spacing and mixing:** Return tomorrow, then a few days later. Once you can do each standard, alternate A and B to practice choosing the right order.
 
-**One correct attempt is not mastery.** Aim to wire both standards correctly from memory across several sessions. With practice, recall can become faster and require less conscious effort. These are learning principles, not claims that this particular game has been experimentally validated or that a specific brain region explains its effects.
+**One correct attempt is not mastery.** Aim to wire both standards correctly from memory across several sessions. With practice, recall can become faster and require less conscious effort. I use this routine to organize the material and practice recalling it over time.
 
 ## Technical details
 
